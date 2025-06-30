@@ -1,4 +1,3 @@
-# InnerLoop-Agent
 # Inner Loop Trend Agent
 
 AI-powered trend detection system built for smart media coverage across Gen Z culture, finance, and tech.
